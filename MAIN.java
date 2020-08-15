@@ -30,6 +30,3 @@ public class MAIN {
         System.out.println();
     }
 }
-
-// ABCDEFGHIJKLMNOPQRSTUVWXYZ
-// ENQIAFLMDJKGHBRSCOPUTYWZVX
