@@ -1,5 +1,3 @@
-// "MGKA DBBDWDZEYG, AOBAM UHY!" 14/8/8/ENQIAFLMDJKGHBRSCOPUTYWZVX
-
 import java.util.Scanner;
 
 public class MAIN {
